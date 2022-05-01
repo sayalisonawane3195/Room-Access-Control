@@ -8,20 +8,14 @@ System that monitors the number of people present in a room. A photoelectric bar
 **Hardware needed-**<br>
 -Arduino Uno <br>
 -Piezo buzzers <br>
--Transistor - NPN BC337 <br>
 -1K ohm resistor <br>
--LCD Display Screen 16x2 12C <br>
--LED - RGB Addressable, PTH, 5mm Diffused (5 Pack) <br>
 -USB Cable A to B <br>
--SI1145 Digital UV Index/IR/Visible Light Sensor <br>
+-Light Barrier KY010 *2 (As per datasheet Light Barrier works as emitter/detector - https://arduinomodules.info/ky-010-photo-interrupter-module/)<br>
 -BreadBoard <br>
 -Jumper Wires Pack - M/M <br>
 -Jumper Wires Pack - M/F <br>
 
 
-**Circuit Diagram-**<br>
+**Circuit Diagram-**<br>![Room_Access_Control](https://user-images.githubusercontent.com/103532299/166162085-637995b9-224c-46b8-8c7f-a3b35429d540.jpeg)
 
-<img width="638" alt="circuit_arduino" src="https://user-images.githubusercontent.com/103532299/165761290-b1013baa-b314-4a9b-8e58-b6ad8cd476f1.PNG">
-
-https://www.circuito.io/app?components=512,11021,417986,534630,534630,855863,956215
 
