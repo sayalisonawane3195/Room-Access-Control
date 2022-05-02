@@ -8,9 +8,11 @@ System that monitors the number of people present in a room. A photoelectric bar
 **Hardware needed-**<br>
 -Arduino Uno <br>
 -Piezo buzzers <br>
--1K ohm resistor <br>
+-220 ohm resistor <br>
+-470 ohm resistor <br>
 -USB Cable A to B <br>
--Light Barrier KY010 *2 (As per datasheet Light Barrier works as emitter/detector - https://arduinomodules.info/ky-010-photo-interrupter-module/)<br>
+-Photo Sensor *2 <br>
+-Laser Emitter *2 <br>
 -BreadBoard <br>
 -Jumper Wires Pack - M/M <br>
 -Jumper Wires Pack - M/F <br>
